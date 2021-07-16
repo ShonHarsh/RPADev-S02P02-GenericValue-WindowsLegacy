@@ -1,0 +1,10 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Folder config file
+[Dd]esktop.ini
+
+# Exclude local dependencies, caches and project settings
+*.local
+*.objects
+*.settings
+*.tmh
