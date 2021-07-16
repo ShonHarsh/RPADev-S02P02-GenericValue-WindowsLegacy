@@ -1,6 +1,6 @@
-# S02P01 For Each & If Statement
+# S02P02 Generic Value
 
-This project is my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the Generic Value practice found in section 02 practice 02 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -12,11 +12,11 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Section:** 02 Variables, Data Types And Control Flow In Studio
 
-**Practice:** For Each & If Statement
+**Practice:** GenericValue
 
-**Repository Name:** RPADev-S02P01-ForEachIfStatement
+**Repository Name:** RPADev-S02P02-GenericValue
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P02-GenericValue
 
 ### RPA Developer Foundation Sections
 
@@ -42,7 +42,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement`
+`git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue`
 
 ### Links
 
