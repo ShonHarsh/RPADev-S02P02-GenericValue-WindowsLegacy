@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Main" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="805,1518" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" sap2010:ExpressionActivityEditor.ExpressionActivityEditor="C#" sap:VirtualizedContainerService.HintSize="1274,1438" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -64,10 +64,9 @@
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
       <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Adding and Concatenating GenericValue Variables&#xD;&#xA;&#xD;&#xA;Create four variables of the GenericValue type in your sequence:&#xD;&#xA;&#xD;&#xA;A with value “123”&#xD;&#xA;B with value “456”&#xD;&#xA;C with value 123&#xD;&#xA;D with value 456&#xD;&#xA;Print to the console various operations with them and see what is the result:&#xD;&#xA;&#xD;&#xA;A + B&#xD;&#xA;C + D&#xD;&#xA;A + C&#xD;&#xA;C + A" DisplayName="Sequence Main" sap:VirtualizedContainerService.HintSize="480,1273" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Adding and Concatenating GenericValue Variables&#xA;&#xA;Create four variables of the GenericValue type in your sequence:&#xA;&#xA;A with value “123”&#xA;B with value “456”&#xA;C with value 123&#xA;D with value 456&#xA;Print to the console various operations with them and see what is the result:&#xA;&#xA;A + B&#xA;C + D&#xA;A + C&#xA;C + A" DisplayName="Sequence Main" sap:VirtualizedContainerService.HintSize="480,1273" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="ui:GenericValue" Name="A">
         <Variable.Default>
@@ -104,7 +103,7 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <WriteLine sap2010:Annotation.AnnotationText="Note that &quot;A + B = &quot; + A + B is concatenating the variables, thus the parenthesesare are required." DisplayName="Write Line A+B" sap:VirtualizedContainerService.HintSize="230,118" sap2010:WorkflowViewState.IdRef="WriteLine_5">
+          <WriteLine sap2010:Annotation.AnnotationText="Note that &quot;A + B = &quot; + A + B is concatenating the variables, thus the parentheses are are required." DisplayName="Write Line A+B" sap:VirtualizedContainerService.HintSize="230,118" sap2010:WorkflowViewState.IdRef="WriteLine_5">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
