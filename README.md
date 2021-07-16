@@ -1,6 +1,6 @@
 # S02P02 Generic Value
 
-This project is my solution in **C#** to the Generic Value practice found in section 02 practice 02 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **Generic Value** practice found in section 02 practice 02 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -14,14 +14,15 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Practice:** GenericValue
 
-**Repository Name:** RPADev-S02P02-GenericValue
-
 **GitHub:** https://github.com/ShonHarsh/RPADev-S02P02-GenericValue
 
 ### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
 2. Variables, Data Types And Control Flow In Studio
+   A. [RPADev-S02P01-ForEachIfStatement](https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement)
+   B. [RPADev-S02P02-GenericValue](https://github.com/ShonHarsh/RPADev-S02P02-GenericValue)
+   C. [RPADev-S02P03-Switch](https://github.com/ShonHarsh/RPADev-S02P03-Switch)
 3. Data Manipulation In Studio
 4. Excel And Data Tables With Studio
 5. UI Automation With Studio
