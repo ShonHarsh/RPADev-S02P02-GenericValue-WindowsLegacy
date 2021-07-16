@@ -1,3 +1,5 @@
+![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
+
 # S02P02 Generic Value
 
 This project is my solution in **C#** to the **Generic Value** practice found in section 02 practice 02 of the UiPath - RPA Developer Foundation course.
