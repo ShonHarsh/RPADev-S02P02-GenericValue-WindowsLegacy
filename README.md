@@ -60,6 +60,12 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 4. Excel And Data Tables With Studio
 
+   P01 [RPADev-S04P01-CalculatingSums](https://github.com/ShonHarsh/RPADev-S04P01-CalculatingSums)
+
+   P02 [RPADev-S04P02-CalculatingLossInvoices](https://github.com/ShonHarsh/RPADev-S04P02-CalculatingLossInvoices)
+
+   P03 [RPADev-S04P03-CalculatingPercentagesOfExpenses](https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses)
+
 5. UI Automation With Studio
 
 6. Selectors In Studio
