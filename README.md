@@ -8,6 +8,24 @@ This project is my solution in **C#** to the **Generic Value** practice found in
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Adding and Concatenating GenericValue Variables**
+
+Create four variables of the GenericValue type in your sequence:
+
+- A with value “123”
+- B with value “456”
+- C with value 123
+- D with value 456
+
+Print to the console various operations with them and see what is the result:
+
+- A + B
+- C + D
+- A + C
+- C + A
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
