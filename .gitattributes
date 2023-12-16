@@ -6,7 +6,7 @@
 
 # Markdown Files
 # Denotes that the Markdown files are detectable by Linguist
-*.md linguist-detectable=true
+\*\.md linguist-detectable=false
 # Specifies that the Markdown files are documentation
 *.md linguist-documentation=false
 # Specifies that the Markdown files are not generated
