@@ -1,5 +1,5 @@
 {
-  "name": "RPADev-S02P02-GenericValue",
+  "name": "RPADev-S02P02-GenericValue-WindowsLegacy",
   "projectId": "7d76539a-b791-45a2-a7aa-a0e7a5535719",
   "description": "Adding and Concatenating GenericValue Variables\r\n\r\nCreate four variables of the GenericValue type in your sequence:\r\n\r\nA with value “123”\r\nB with value “456”\r\nC with value 123\r\nD with value 456\r\nPrint to the console various operations with them and see what is the result:\r\n\r\nA + B\r\nC + D\r\nA + C\r\nC + A",
   "main": "Main.xaml",
