@@ -5,7 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[24.3.1]",
-    "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
