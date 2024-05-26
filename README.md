@@ -40,7 +40,7 @@ Print to the console various operations with them and see what is the result:
 
 ### Sample Output
 
-```
+```sh
 07/16/2021 14:15:09 => [Debug] Execution started for project: RPADev-S02P02-GenericValue
 07/16/2021 14:15:11 => [Info] RPADev-S02P02-GenericValue execution started
 07/16/2021 14:15:12 => [Debug] A + B = 123456
@@ -60,11 +60,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
