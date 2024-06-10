@@ -1,4 +1,4 @@
-![UiPath](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![UiPath](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-01.png)
 
 # S02P02 Generic Value
 
